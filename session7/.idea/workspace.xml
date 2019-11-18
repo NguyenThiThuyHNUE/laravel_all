@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53c14a23-8054-489b-94dd-f8d845c4acf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Refactoring - tach-bien/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" beforeDir="false" afterPath="$PROJECT_DIR$/Refactoring - tach-bien/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refactoring - tach-phuong thuc/php-cleancode-refactoring-method-extraction/src/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Refactoring - tach-phuong thuc/php-cleancode-refactoring-method-extraction/src/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming/src/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming/src/Calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Refactoring/php-cleancode-refactoring-exercise" />
+  </component>
+  <component name="ProjectId" id="1PMOOzhHtN6hW7mtxLSZoh53Oj5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../session11" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53c14a23-8054-489b-94dd-f8d845c4acf7" name="Default Changelist" comment="" />
+      <created>1565680470706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565680470706</updated>
+      <workItem from="1565680472130" duration="3515000" />
+      <workItem from="1565709877878" duration="607000" />
+      <workItem from="1565765411909" duration="623000" />
+      <workItem from="1565771878812" duration="6000" />
+      <workItem from="1565772064412" duration="6000" />
+      <workItem from="1565939830910" duration="6000" />
+      <workItem from="1565942764461" duration="1497000" />
+      <workItem from="1566053460326" duration="6000" />
+      <workItem from="1566057271940" duration="14000" />
+      <workItem from="1566060876720" duration="5000" />
+      <workItem from="1566202073032" duration="858000" />
+      <workItem from="1566355778004" duration="90000" />
+      <workItem from="1566355927881" duration="1201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Refactoring/php-cleancode-refactoring-exercise/TennisGame.php</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51673668-ef32-43ec-9706-e82d2bfd547f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/.idea/library_manager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/book/addBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/book/deleteBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/book/displayBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/book/editBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/borrow_book/addBorrowBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/borrow_book/deleteBorrowBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/borrow_book/displayBorrowBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/borrow_book/editBorrowBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/category/addCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/category/deleteCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/category/displayCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/category/editCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/database/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/images/lms.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/images/pau.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/layout/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/layout/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/library_manager.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/student/addStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/student/deleteStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/student/displayStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_manager/library_manager/student/editStudent.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/library_manager" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/library_manager/.idea/library_manager.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PC4dUL6xIVyl2aWynA8x0bPfk2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/library_manager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51673668-ef32-43ec-9706-e82d2bfd547f" name="Default Changelist" comment="" />
+      <created>1565364831525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565364831525</updated>
+      <workItem from="1565364833371" duration="5215000" />
+      <workItem from="1565399625394" duration="488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e39d6eae-b391-4081-bdb7-692eaf6ca9d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hom-nay-an-gi-thuy/Hom-nay-an-gi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hom-nay-an-gi-thuy/Hom-nay-an-gi/.idea/Hom-nay-an-gi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hom-nay-an-gi-thuy/Hom-nay-an-gi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hom-nay-an-gi-thuy/Hom-nay-an-gi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hom-nay-an-gi-thuy/Hom-nay-an-gi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hom-nay-an-gi-thuy/Hom-nay-an-gi/connectDB/connectDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hom-nay-an-gi-thuy/Hom-nay-an-gi/info/editUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session9/login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t/tamgiac.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hom-nay-an-gi-thuy/tamgiac.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/.idea/library_manager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/book/addBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/book/deleteBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/book/displayBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/book/editBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/borrow_book/addBorrowBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/borrow_book/deleteBorrowBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/borrow_book/displayBorrowBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/borrow_book/editBorrowBook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/category/addCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/category/deleteCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/category/displayCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/category/editCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/database/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/images/lms.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/images/pau.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/layout/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/layout/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/library_manager.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/student/addStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/student/deleteStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/student/displayStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-2/library_manager/library_manager/student/editStudent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session7/Refactoring - tach-bien/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" beforeDir="false" afterPath="$PROJECT_DIR$/session7/Refactoring - tach-bien/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session7/Refactoring - tach-phuong thuc/php-cleancode-refactoring-method-extraction/src/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/session7/Refactoring - tach-phuong thuc/php-cleancode-refactoring-method-extraction/src/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session7/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming/src/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/session7/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming/src/Calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session7/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/session7/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session9/login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session9/login/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/session9/login" />
+  </component>
+  <component name="ProjectId" id="1PlU2z5MaOqZcNbSgcjkGvfPOKs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e39d6eae-b391-4081-bdb7-692eaf6ca9d1" name="Default Changelist" comment="" />
+      <created>1566447973323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566447973323</updated>
+      <workItem from="1566447975743" duration="73000" />
+      <workItem from="1566448111672" duration="7000" />
+      <workItem from="1566448211798" duration="3239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Session1_M2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session1_M2/session1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session1_M2/session1/convert_to_words" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session2_M2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session3_M2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hom-nay-an-gi-thuy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module-2/demo-hom-nay-an-gi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module-2/library_manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session7/Refactoring - tach-bien/php-cleancode-refactoring-variable-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session7/Refactoring - tach-phuong thuc/php-cleancode-refactoring-method-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session7/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session7/Refactoring/php-cleancode-refactoring-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session9/login" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/t" vcs="Git" />
+  </component>
+</project>
